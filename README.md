@@ -7,7 +7,8 @@ Or watch this very good video about making an AI: https://www.youtube.com/watch?
 
 ## How to use writen by me
 ###### I'm not good at explaining or making a doc so I gonna try my best
-You can import this module by just put main.py in ur python project folder
+You can import this module by just put pyfuck.py in your python project folder
+and type `from pyfuck import runBFCode`
 
 Ok so I don't want to waste your time so there a `ReadMePls.txt` goes with the project which is a faster version of this page and some example too. So just skip this whole page and start working. Anyway let start with the How to use part
 
