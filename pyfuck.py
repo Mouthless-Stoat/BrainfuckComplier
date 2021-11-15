@@ -35,8 +35,11 @@ def runBFcode(sourceCode: str = "main.bf", runFile: bool = True, debugMode: bool
     print(f"Amount of Command Executing: {len(code)}")
     # endregion
 
+    if noCap:
+        cycleCap = 100
+        
     cycle = 1
-    cycleCap = 2
+
     while readerPos < len(code) and cycle < cycleCap:
 
         command = code[readerPos]
@@ -94,7 +97,8 @@ def runBFcode(sourceCode: str = "main.bf", runFile: bool = True, debugMode: bool
 
         readerPos += 1
         cycle += 1
-        cycleCap += 1
+        if noCap:
+            cycleCap += 1
 
     logFile.close()
     print(f"Memory String(Final): {memoryString}")
