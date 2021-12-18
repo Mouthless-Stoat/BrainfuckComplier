@@ -50,7 +50,7 @@ If `True` ignore `cycleCap` and the program run until it done
 
 ###### P.S: U can turn this one if ur certain thatt the program will stop if not it gonna run forever prob crash the editor ur using
 
-##Usage
+## Usage
 ### Example: using internal BF code
 ```python
 from pyfuck import runBFcode
