@@ -97,7 +97,7 @@ from pyfuck import runBFcode
 
 runBFcode(runFile=true, sourceCode="idk.bf")
 ```
-Just like run BF code internaly you can add `debugMode=True` to the argument list to get log file like this:
+Just like running BF code internaly you can add `debugMode=True` to the argument list to get log file like this:
 ```text
 Source Code: +++[>+++ <-]
 
