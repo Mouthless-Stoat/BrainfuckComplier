@@ -1,7 +1,7 @@
 # Pyfuck
 The a fun little Project I did yesterday use to run BF code
 
-The program will complier Brainfuck code <br>
+The program will run Brainfuck code <br>
 You can learn brainfuck here: https://en.wikipedia.org/wiki/Brainfuck <br>
 Or watch this very good video about making an AI: https://www.youtube.com/watch?v=qK0vmuQib8Y&t=149s
 
