@@ -21,7 +21,7 @@ The function take in **2 require argument** and **4 optional argument**
 - `runFile` (bool) Default = True <br>
 Use to let the program to know if it open a file or run directly using a string
 
-- `sourceCode` (bool) Default = "main.bf" <br>
+- `sourceCode` (str) Default = "main.bf" <br>
 Take diffence thing dependenly on runFile:
     - if `runFile` is `True` input the external bf file name.
     - if `runFile` is `False` input the bf code string.
