@@ -1,4 +1,4 @@
-The program will complier Brainfuck code
+The program will run Brainfuck code
 U can learn brainfuck here: https://en.wikipedia.org/wiki/Brainfuck
 Or watch this very good video about making an AI: https://www.youtube.com/watch?v=qK0vmuQib8Y&t=149s
 I'm not good at explaining or making a doc so I gonna try my best
