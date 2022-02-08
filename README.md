@@ -114,5 +114,5 @@ Pointer Position: 0
 Memory String: [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
 
-You can also add in `noCap=True`, `memoryStringLenght: int = 10000` or `cycleCap: int = 10` to customize it to do what you want <br>
+You can also add in `noCap=True`, `memoryStringLenght = 10000` or `cycleCap = 10` to customize it to do what you want <br>
 The project come with a `example.bf` and `example.py` to get you started 
